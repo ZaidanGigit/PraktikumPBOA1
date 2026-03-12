@@ -1,3 +1,8 @@
+/* Nama File    : Mahasiswa.java
+ * Deskripsi    : berisi atribut dan method dalam class Mahasiswa
+ * pembuat      : Muhammad Zaidan Alfarizi
+ * Tanggal      : 15 Maret 2026
+ */
 import java.util.ArrayList;
 public class Mahasiswa{
 
