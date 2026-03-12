@@ -1,7 +1,7 @@
 /* Nama File    : MataKuliah.java
  * Deskripsi    : berisi atribut dan method dalam class MataKuliah
  * pembuat      : Muhammad Zaidan Alfarizi
- * Tanggal      : 15 Maret 2026
+ * Tanggal      : 5 Maret 2026
  */
 public class MataKuliah {
     /* Atribut */
